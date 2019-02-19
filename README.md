@@ -6,21 +6,25 @@ Mathematical structures library.
 
 | Haskell | Coq | Python | Feature |
 | ------- | --- | ------ | ------- |
-| [ ]     | [ ] | [ ]    | Undirected Graph |
-| [ ]     | [ ] | [ ]    | Directed Graph |
-| [ ]     | [ ] | [ ]    | Set |
-| [ ]     | [ ] | [ ]    | Sequence |
-| [ ]     | [ ] | [ ]    | Finite |
-| [ ]     | [ ] | [ ]    | Natural |
-| [ ]     | [ ] | [ ]    | Monoid |
-| [ ]     | [ ] | [ ]    | Ring  |
-| [ ]     | [ ] | [ ]    | Group |
-| [ ]     | [ ] | [ ]    | Category |
-| [ ]     | [ ] | [ ]    | Field |
-| [ ]     | [ ] | [ ]    | Vector Space |
-| [ ]     | [ ] | [ ]    | Linear Transformation |
-| [ ]     | [ ] | [ ]    | Affine Transformation |
-| [ ]     | [ ] | [ ]    | Turing Machine |
-| [ ]     | [ ] | [ ]    |  |
+|  |  |  | Undirected Graph |
+|  |  |  | Directed Graph |
+|  |  |  | Set |
+|  |  |  | Sequence |
+|  |  |  | Finite |
+|  |  |  | Natural |
+|  |  |  | Monoid |
+|  |  |  | Ring  |
+|  |  |  | Group |
+|  |  |  | Category |
+|  |  |  | Field |
+|  |  |  | Vector Space |
+|  |  |  | Linear Transformation |
+|  |  |  | Affine Transformation |
+|  |  |  | Turing Machine |
+|  |  |  |  |
 
+### Legend
 
+| Symbol | Meaning |
+| ------ | ------- |
+|  | not implemented |
