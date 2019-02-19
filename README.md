@@ -27,4 +27,11 @@ Mathematical structures library.
 
 | Symbol | Meaning |
 | ------ | ------- |
-|  | not implemented |
+|    | not implemented |
+| ++ | designated for static implementation |
+| +  | fully implemented |
+| -  | mostly implemented |
+| -- | partially implemented |
+| !  | contains bugs |
+| S\* | structures <meaning of \*> |
+| U\* | utilities <meaning of \*> |
